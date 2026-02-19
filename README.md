@@ -1,7 +1,7 @@
 ## Hey, Ich bin Dgamer!
 
 Moin Moin, Ich begrüße dich herzlich auf mein Github :D  
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Gr%C3%BCnder+von+CraftoriaMC.DE;Begeht+Kriegsverbrechen;Nutzt+IntelliJ+IDEA+%26+VS+Code;dc.craftoriamc.de;Verliert+1000%2B+im+Monat+seine+Accounts;Minecraft+Plugin+Coding)](https://git.io/typing-svg)
 ---
 
 ## Grundlegende Informationen
