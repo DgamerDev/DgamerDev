@@ -1,3 +1,8 @@
-## EchterKäse - Github
+## Hey, Ich bin EchterKäse
 
-Empty Description, WOW
+Moin Moin, Ich begrüße dich herzlich auf mein Github :D  
+
+---
+
+## Grundlegende Informationen
+Hier kommt noch was, lol
