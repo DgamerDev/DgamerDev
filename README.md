@@ -28,3 +28,6 @@ Falls du Bock hast auf einen kleinen Chilligen Minecraft Server,
 Dann joine noch heute unseren Discord!  
 
 ```dc.craftoriamc.de´´´
+
+##### 💥 Verstört, Erstellt & Edtiert Code um 3 Uhr nachts
+ 
