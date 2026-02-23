@@ -26,8 +26,6 @@ Moin Moin, Ich begrüße dich herzlich auf mein Github :D
 Ich bin Gründer von dem Minecraft Citybuild Netzwerk **CraftoriaMC.DE**  
 Falls du Bock hast auf einen kleinen Chilligen Minecraft Server,  
 Dann joine noch heute unseren Discord!  
-
-```dc.craftoriamc.de´´´
+dc.craftoriamc.de
 
 ##### 💥 Verstört, Erstellt & Edtiert Code um 3 Uhr nachts
- 
