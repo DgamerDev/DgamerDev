@@ -18,7 +18,7 @@ Moin Moin, Ich begrüße dich herzlich auf mein Github :D
 ---
 
 ## Meine Repos
-**Keine Repo aktuell verfügbar...**  
+[BetterLanguage](https://github.com/BetterLanguageMC/BetterLanguage/) - Deutsche Config Übersetzungen  
 
 ---
 
