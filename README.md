@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**DgamerDev/DgamerDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=fab387" width="100%">
+    <img src="https://assets.dgamer.de/img/circle.png" width="110" alt="Profile Picture of DgamerDev"/>
+    <h1>DgamerDev</h1>
+    <p>
+        🙋 He/Him <br>
+        👨‍💻 Developer <br>
+        🐧 I dont use Arch btw. <br>
+    </p>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=fab387&section=footer" width="100%">
+</div>
